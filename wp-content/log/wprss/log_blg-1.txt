@@ -1,0 +1,1135 @@
+[14-11-2017 09:31:52] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[14-11-2017 09:31:54] [Error] WPRSS > 2:
+Sorted: 
+
+[14-11-2017 09:31:55] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 09:36:55] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 20:51:16] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 20:51:54] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 21:04:26] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 21:08:46] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 21:12:29] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 21:17:26] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 21:23:29] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 21:27:32] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 21:33:42] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 21:37:50] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 21:43:56] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 21:48:08] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 21:52:12] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 21:58:26] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 22:02:32] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 22:08:41] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 22:12:43] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 22:18:45] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 22:22:56] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 22:26:58] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 22:33:02] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 22:37:06] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 22:43:12] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 22:47:13] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 22:53:19] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 22:57:26] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 23:03:39] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 23:07:51] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 23:11:54] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 23:18:00] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 23:22:05] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 23:28:19] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 23:32:23] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 23:38:32] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 23:42:45] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 23:48:59] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 23:53:07] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-11-2017 23:57:10] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 00:03:20] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 00:07:25] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 00:13:29] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 00:17:31] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 00:23:33] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 00:27:41] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 00:32:04] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 00:38:16] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 00:42:24] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 00:48:34] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 00:52:43] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 00:58:57] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 01:03:03] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 01:07:10] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 01:13:23] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 01:17:28] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 01:23:47] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 01:27:50] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 01:31:57] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 01:38:05] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 01:42:14] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 01:48:29] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 22:40:31] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 22:42:27] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 22:48:33] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 22:53:49] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 22:57:57] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 23:02:23] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 23:08:30] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 23:12:33] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 23:18:38] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 23:22:39] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 23:28:48] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 23:32:49] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 23:38:57] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 23:42:59] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 23:47:06] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 23:53:06] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-11-2017 23:57:08] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 00:02:18] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 00:07:29] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 01:21:35] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 01:21:53] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 18:53:14] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 19:01:25] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 19:02:06] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 19:06:53] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 19:11:54] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 19:16:57] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 19:16:59] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 19:22:15] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 19:27:20] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 19:33:22] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 19:37:24] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 19:43:27] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 19:47:29] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 19:53:32] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 19:57:35] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 20:03:38] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 20:07:39] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 20:13:43] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 20:28:10] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 20:32:11] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 20:38:10] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 20:42:14] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 20:47:03] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 20:51:59] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 20:58:02] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 21:24:32] [Error] WPRSS > 2:
+Sorted: 
+
+
+[16-11-2017 21:49:01] [Error] WPRSS > 2:
+Sorted: 
+
+
+[17-11-2017 00:02:12] [Error] WPRSS > 2:
+Sorted: 
+
+
+[17-11-2017 03:36:51] [Error] WPRSS > 2:
+Sorted: 
+
+
+[22-11-2017 20:42:04] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 06:33:40] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 06:37:15] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 06:43:15] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 06:47:17] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 06:53:20] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 06:57:22] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 07:03:25] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 07:07:27] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 07:13:31] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 07:17:32] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 07:23:35] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 07:27:37] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 07:33:40] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 07:37:42] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 07:43:45] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 07:47:47] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 07:53:50] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 07:57:52] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 08:01:54] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 08:07:59] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 08:12:00] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 08:18:02] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 09:38:47] [Error] WPRSS > 2:
+Sorted: 
+
+
+[27-11-2017 09:42:17] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 07:06:41] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 07:06:54] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 07:12:09] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 07:18:10] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 07:22:15] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 07:27:07] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 07:32:52] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 07:37:52] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 07:42:52] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 07:46:53] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 07:52:52] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 07:56:55] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 08:01:55] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 08:06:55] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 08:11:56] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 08:16:56] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 08:21:56] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 08:27:06] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 08:32:46] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 08:38:05] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 08:42:46] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 08:47:06] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 08:52:47] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 08:57:42] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 09:05:13] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 09:11:15] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 09:12:14] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 09:17:16] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 09:25:29] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 09:28:33] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 09:32:37] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 09:38:41] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 09:43:17] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 09:47:22] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 10:03:10] [Error] WPRSS > 2:
+Sorted: 
+
+
+[30-11-2017 22:56:31] [Error] WPRSS > 2:
+Sorted: 
+
+
+[01-12-2017 07:32:13] [Error] WPRSS > 2:
+Sorted: 
+
+
+[01-12-2017 09:04:01] [Error] WPRSS > 2:
+Sorted: 
+
+
+[11-12-2017 03:02:17] [Error] WPRSS > 2:
+Sorted: 
+
+
+[11-12-2017 03:34:45] [Error] WPRSS > 2:
+Sorted: 
+
+
+[11-12-2017 05:12:22] [Error] WPRSS > 2:
+Sorted: 
+
+
+[11-12-2017 06:04:32] [Error] WPRSS > 2:
+Sorted: 
+
+
+[11-12-2017 06:10:37] [Error] WPRSS > 2:
+Sorted: 
+
+
+[11-12-2017 06:12:35] [Error] WPRSS > 2:
+Sorted: 
+
+
+[11-12-2017 06:24:04] [Error] WPRSS > 2:
+Sorted: 
+
+
+[11-12-2017 06:27:07] [Error] WPRSS > 2:
+Sorted: 
+
+
+[11-12-2017 06:31:56] [Error] WPRSS > 2:
+Sorted: 
+
+
+[11-12-2017 06:36:59] [Error] WPRSS > 2:
+Sorted: 
+
+
+[11-12-2017 06:41:59] [Error] WPRSS > 2:
+Sorted: 
+
+
+[11-12-2017 06:47:20] [Error] WPRSS > 2:
+Sorted: 
+
+
+[11-12-2017 07:06:23] [Error] WPRSS > 2:
+Sorted: 
+
+
+[11-12-2017 07:07:26] [Error] WPRSS > 2:
+Sorted: 
+
+
+[11-12-2017 07:12:25] [Error] WPRSS > 2:
+Sorted: 
+
+
+[11-12-2017 18:57:52] [Error] WPRSS > 2:
+Sorted: 
+
+
+[12-12-2017 02:44:07] [Error] WPRSS > 2:
+Sorted: 
+
+
+[12-12-2017 07:37:27] [Error] WPRSS > 2:
+Sorted: 
+
+
+[12-12-2017 18:43:26] [Error] WPRSS > 2:
+Sorted: 
+
+
+[12-12-2017 19:26:39] [Error] WPRSS > 2:
+Sorted: 
+
+
+[12-12-2017 19:27:00] [Error] WPRSS > 2:
+Sorted: 
+
+
+[12-12-2017 19:31:53] [Error] WPRSS > 2:
+Sorted: 
+
+
+[12-12-2017 19:39:49] [Error] WPRSS > 2:
+Sorted: 
+
+
+[12-12-2017 19:42:30] [Error] WPRSS > 2:
+Sorted: 
+
+
+[12-12-2017 19:53:06] [Error] WPRSS > 2:
+Sorted: 
+
+
+[12-12-2017 20:03:12] [Error] WPRSS > 2:
+Sorted: 
+
+
+[12-12-2017 20:20:48] [Error] WPRSS > 2:
+Sorted: 
+
+
+[12-12-2017 20:23:27] [Error] WPRSS > 2:
+Sorted: 
+
+
+[12-12-2017 20:27:26] [Error] WPRSS > 2:
+Sorted: 
+
+
+[12-12-2017 20:38:20] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-12-2017 00:15:05] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-12-2017 09:37:52] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-12-2017 07:08:37] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[19-12-2017 07:37:59] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[19-12-2017 07:55:55] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[19-12-2017 07:59:46] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 05:07:09] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 05:12:23] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 05:18:31] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 05:22:42] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 05:27:37] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 05:45:57] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 07:47:19] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 07:53:54] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 08:34:55] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 08:37:07] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 08:41:55] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 10:09:15] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 10:12:26] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 10:12:27] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 10:22:28] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 10:37:22] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 10:47:29] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 10:53:07] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 10:53:08] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 10:58:23] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 11:05:05] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 11:07:55] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 11:07:56] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 11:12:07] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 11:12:08] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 11:50:34] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 12:56:14] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 12:57:13] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 13:02:36] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 18:34:41] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 23:46:02] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[30-01-2018 23:47:44] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 00:21:41] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 00:28:39] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 00:32:50] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 00:37:25] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 00:43:41] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 00:48:09] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 00:51:56] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 00:58:12] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 01:02:12] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 01:12:29] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 01:17:21] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 01:23:37] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 01:27:37] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 01:32:34] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 01:39:40] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 03:15:17] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 03:20:13] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 03:22:39] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 03:29:26] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 03:58:07] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 04:02:49] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 04:07:40] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 04:12:40] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 04:17:40] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 04:22:46] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 04:28:40] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 04:31:53] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 04:31:54] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 04:36:53] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 04:41:53] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 04:47:06] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 04:53:52] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 05:21:17] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 05:41:00] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 05:41:53] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 05:54:32] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 05:59:03] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 06:02:38] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[31-01-2018 06:12:13] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
